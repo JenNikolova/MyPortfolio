@@ -2,26 +2,26 @@
     {
         "name": "First Project",
         "desc": "mnogo qkk proekkt",
-        "img": "images/myProjects/project_one.JPG"
+        "img": "images/myProjects/project_one.jpg"
 	},
     {
         "name": "Second Project",
         "desc": "mnogo qkk proekkt",
-        "img": "images/myProjects/project_two.JPG"
+        "img": "images/myProjects/project_two.jpg"
 	},
     {
         "name": "Third Project",
         "desc": "mnogo qkk proekkt",
-        "img": "images/myProjects/project_three.JPG"
+        "img": "images/myProjects/project_three.jpg"
 	},
     {
         "name": "Fourth Project",
         "desc": "mnogo qkk proekkt",
-        "img": "images/myProjects/project_four.JPG"
+        "img": "images/myProjects/project_four.jpg"
 	},
     {
         "name": "Fifth Project",
         "desc": "mnogo qkk proekkt",
-        "img": "images/myProjects/project_five.JPG"
+        "img": "images/myProjects/project_five.jpg"
 	}
 ]
